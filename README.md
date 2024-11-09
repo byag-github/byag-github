@@ -6,9 +6,6 @@ Hi 👋 My name is YUSUF AHMAD GHIFFARI
 * 🤝  I'm open to collaborating on tech section
 * ⚡  I'm secretly Thor, please don't tell anyone
 
-<a href="https://www.github.com/byag-github" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/byag-github?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
-
 ### Skills
 
 
