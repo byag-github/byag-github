@@ -1,22 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Iam Yusuf Ghiffari
 ============================================================================================================================================
 
-
-<h1 align="center">Hi 👋, I'm asd</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on **asd**
-
-- 🌱 I’m currently learning **asd**
-
-- 👯 I’m looking to collaborate on **asd**
-
-- 🤝 I’m looking for help with **asd**
-
-- 💬 Ask me about **asd**
-
-
-Iam based in Indonesia
+Based in Indonesia
 
 Iam secretly Thor, please don't tell anyone
 
