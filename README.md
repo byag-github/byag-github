@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================================
 
 Iam based in Indonesia
-Iam secretly Thor, please don't tell anyone
+*Iam secretly Thor, please don't tell anyone
 
 
 ### Majors
