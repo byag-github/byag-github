@@ -1,10 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yusuf Ahmad Ghiffari
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Iam Yusuf Ghiffari
 ============================================================================================================================================
 
-* 🌍  I'm based in Indonesia
-* 🤝  I'm open to collaborating on tech section
-* 📨  Contact me at [fariyusuf368@gmail.com](mailto:fariyusuf368@gmail.com)
-* ⚡  I'm secretly Thor, please don't tell anyone
+Iam based in Indonesia
+Iam secretly Thor, please don't tell anyone
 
 
 ### Majors
