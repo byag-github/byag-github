@@ -1,9 +1,7 @@
 Yusuf Ghiffari
 ============================================================================================================================================
 
--Based in Indonesia
-
--Iam secretly Thor, please dont tell anyone
+Based in Indonesia, iam secretly spidermen, please dont tell anyone
 
 <p align="left">
 </p>
